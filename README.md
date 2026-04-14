@@ -23,6 +23,10 @@ This repository will include the following:
 -  Ae2Stuff Unofficial resource pack for guis & some items
 -  Thermal Series resource pack for guis
 -  OpenComputers resource pack for guis
+-  Immersive Engineer/Tech resource pack for guis
+-  Baubles resource pack for guis
+-  JEI/HEI resource pack for guis
+-  Pre-Combat update compatible resource pack for vanilla guis
 
 And maybe later a gregic one if i can be assed
 

@@ -29,6 +29,7 @@ This repository will include the following:
 -  Baubles resource pack for guis
 -  JEI/HEI resource pack for guis
 -  Pre-Combat update compatible resource pack for vanilla guis
+-  Advanced Rocketry resource pack for guis 
 
 And maybe later a gregic one if i can be assed
 
